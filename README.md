@@ -1,4 +1,4 @@
-# "Deep Dive into Emotion Detection: A Comparative Study of AlexNet and DenseNet121 on Facial Expressions"
+# Deep Dive into Emotion Detection: A Comparative Study of AlexNet and DenseNet121 on Facial Expressions
 
 1. **Introduction**
 Emotions play a crucial role in human experience and communication. Recognizing and interpreting emotions have become increasingly important in the era of digital technology. This project explores the application of Convolutional Neural Networks (CNNs) along with advanced optimization algorithms for precise emotion detection on human faces in images. The research aims to enhance the accuracy and efficiency of emotion recognition, impacting areas such as social interactions, decision-making, and psychological well-being.
