@@ -12,7 +12,7 @@ Data augmentation techniques are applied using ImageDataGenerator to enrich the 
 4. **CNN Architectures**
   4.1 *DenseNet121*
   Densely Connected Convolutional Networks architecture
-  Utilizes transfer learning with DenseNet121 pretrained on ImageNet
+  Utilizes transfer learning with DenseNet121 pre-trained on ImageNet
   Global Average Pooling and fully connected layers for classification
   4.2 *AlexNet*
   Introduced in the 2012 ImageNet Challenge, gaining popularity
